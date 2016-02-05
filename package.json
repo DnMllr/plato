@@ -47,7 +47,7 @@
     "analyze"
   ],
   "dependencies": {
-    "escomplex-js": "jared-stilwell/escomplex",
+    "escomplex-js": "jared-stilwell/escomplex.git",
     "fs-extra": "^0.3.2",
     "glob": "~4.4.1",
     "jshint": "~2.6.3",
